@@ -1,4 +1,4 @@
-//binay to decimal
+//binary to decimal
 #include <iostream>
 using namespace std;
 
